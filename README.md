@@ -1,1 +1,2 @@
-# Credit-Card-Forgery-ML-Project-
+# Credit-Card-Forgery
+Machine Learning Project
